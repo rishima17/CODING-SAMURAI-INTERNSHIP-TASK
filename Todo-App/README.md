@@ -14,12 +14,6 @@ This app helps you keep track of your daily tasks, add new ones, mark them as co
 
 ---
 
-## 🖼️ Screenshots
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile.png)
 
 ---
 
